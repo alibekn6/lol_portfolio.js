@@ -8,4 +8,6 @@ To run this project you need
 
 1) <code>git clone _this repo_ </code>
 2) <code>npm install three</code>
-3) <code>npm init </code>
+3) <code>npm run dev</code>
+
+<h1>Enjoy</h1>
