@@ -6,6 +6,6 @@ O_o it's a mini 3D portfolio using ThreeJS ViteJS
 
 To run this project you need
 
-1) <code>git clone <this repo></code>
+1) <code>git clone _this repo_ </code>
 2) <code>npm install three</code>
 3) <code>npm init </code>
